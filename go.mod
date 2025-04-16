@@ -1,4 +1,4 @@
-module github.com/ThreeDotsLabs/watermill-redisstream
+module github.com/ad3n/watermill-redisstream
 
 go 1.21
 
